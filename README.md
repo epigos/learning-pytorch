@@ -1,1 +1,1 @@
-# learning-pytorch
+# Implementation of deep learning algorithms using Pytorch
